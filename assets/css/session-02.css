@@ -1,0 +1,40 @@
+
+
+ body {
+   background: linear-gradient(to bottom right, #56b4ac, #da49ce)
+ }
+
+header {
+  background: #333333;
+}
+
+article {
+  background: #aaaaaa;
+}
+
+article header {
+  background: #666666;
+  color: #000000;
+}
+
+section {
+  background: #999999;
+  color: #333333;
+}
+
+footer {
+  background: #000000;
+}
+
+article footer p {
+  color: #ffffff;
+}
+
+footer p {
+  color: #999999;
+}
+
+p {
+  color: #222222;
+}
+
